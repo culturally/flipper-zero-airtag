@@ -6,6 +6,7 @@
 ## Info
 - Just replace gap.c with the modified one.
 - Works with Official Flipper Firmware but should work with unleashed, RogueMaster too
+- You need to sniff the nfc registration data in 14443a protocol between a real AirTag and Iphone process and change the advertise data. (You need new unpaired AirTag)
 
 ## Screenshot
 
